@@ -1,0 +1,22 @@
+C:\Users\pascu.000\AppData\Local\Temporary Projects\Conector_BBDD_ACCESS\bin\Debug\Conector_BBDD_ACCESS.exe.config
+C:\Users\pascu.000\AppData\Local\Temporary Projects\Conector_BBDD_ACCESS\bin\Debug\Catalogador.accdb
+C:\Users\pascu.000\AppData\Local\Temporary Projects\Conector_BBDD_ACCESS\bin\Debug\Conector_BBDD_ACCESS.exe
+C:\Users\pascu.000\AppData\Local\Temporary Projects\Conector_BBDD_ACCESS\bin\Debug\Conector_BBDD_ACCESS.pdb
+C:\Users\pascu.000\AppData\Local\Temporary Projects\Conector_BBDD_ACCESS\bin\Debug\Conector_BBDD_ACCESS.xml
+C:\Users\pascu.000\AppData\Local\Temporary Projects\Conector_BBDD_ACCESS\obj\Debug\Conector_BBDD_ACCESS.Form1.resources
+C:\Users\pascu.000\AppData\Local\Temporary Projects\Conector_BBDD_ACCESS\obj\Debug\Conector_BBDD_ACCESS.Resources.resources
+C:\Users\pascu.000\AppData\Local\Temporary Projects\Conector_BBDD_ACCESS\obj\Debug\Conector_BBDD_ACCESS.vbproj.GenerateResource.Cache
+C:\Users\pascu.000\AppData\Local\Temporary Projects\Conector_BBDD_ACCESS\obj\Debug\Conector_BBDD_ACCESS.exe
+C:\Users\pascu.000\AppData\Local\Temporary Projects\Conector_BBDD_ACCESS\obj\Debug\Conector_BBDD_ACCESS.xml
+C:\Users\pascu.000\AppData\Local\Temporary Projects\Conector_BBDD_ACCESS\obj\Debug\Conector_BBDD_ACCESS.pdb
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_ACCESS\Conector_BBDD_ACCESS\bin\Debug\Conector_BBDD_ACCESS.exe.config
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_ACCESS\Conector_BBDD_ACCESS\obj\Debug\Conector_BBDD_ACCESS.exe
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_ACCESS\Conector_BBDD_ACCESS\obj\Debug\Conector_BBDD_ACCESS.xml
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_ACCESS\Conector_BBDD_ACCESS\obj\Debug\Conector_BBDD_ACCESS.pdb
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_ACCESS\Conector_BBDD_ACCESS\bin\Debug\Catalogador.accdb
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_ACCESS\Conector_BBDD_ACCESS\bin\Debug\Conector_BBDD_ACCESS.exe
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_ACCESS\Conector_BBDD_ACCESS\bin\Debug\Conector_BBDD_ACCESS.pdb
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_ACCESS\Conector_BBDD_ACCESS\bin\Debug\Conector_BBDD_ACCESS.xml
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_ACCESS\Conector_BBDD_ACCESS\obj\Debug\Conector_BBDD_ACCESS.Form1.resources
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_ACCESS\Conector_BBDD_ACCESS\obj\Debug\Conector_BBDD_ACCESS.Resources.resources
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_ACCESS\Conector_BBDD_ACCESS\obj\Debug\Conector_BBDD_ACCESS.vbproj.GenerateResource.Cache
